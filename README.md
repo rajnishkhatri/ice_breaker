@@ -141,6 +141,10 @@ pytest .
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## 📝 Credits
+
+This project is based on starting code from [Eden Marco's Udemy course](https://www.udemy.com/user/eden-marco/). Special thanks to Eden for the educational content and inspiration.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
